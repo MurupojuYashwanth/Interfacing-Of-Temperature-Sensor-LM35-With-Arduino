@@ -33,7 +33,8 @@ This project focuses on developing a robust temperature monitoring system using 
 - Resistors
 - Jumper Wires
 
-## Circuit Diagram
+## Connectivity
+![image](https://github.com/user-attachments/assets/3f835571-ccaa-4f67-a228-c294c274fd85)
 
 
 
@@ -42,6 +43,10 @@ This project focuses on developing a robust temperature monitoring system using 
 2. Data Conversion: The Arduino converts the sensor’s analog voltage output into temperature units (°C) and can optionally convert to Fahrenheit.
 3. Display on LCD: The Arduino uses the LiquidCrystal_I2C library to display the temperature readings on a 16x2 LCD.
 4. LED Indicators: The system includes visual indicators where LEDs light up based on predefined temperature thresholds.
+
+
+## Testing
+![image](https://github.com/user-attachments/assets/8271f34d-2cb3-4431-b5d7-d2197732cf76)
 
 
 ## Results
